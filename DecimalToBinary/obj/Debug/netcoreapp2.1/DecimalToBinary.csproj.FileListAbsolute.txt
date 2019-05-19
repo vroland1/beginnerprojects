@@ -1,0 +1,11 @@
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.deps.json
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.runtimeconfig.json
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.runtimeconfig.dev.json
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.dll
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\bin\Debug\netcoreapp2.1\DecimalToBinary.pdb
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.csprojAssemblyReference.cache
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.AssemblyInfo.cs
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.dll
+C:\Users\victoriar\victoriaroland-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\DecimalToBinary\obj\Debug\netcoreapp2.1\DecimalToBinary.pdb
